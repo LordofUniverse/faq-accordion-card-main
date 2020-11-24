@@ -41,7 +41,6 @@ img1.addEventListener('click',function() {
         create700('p1', '1', 'c1')
         did1 = 'false';
         document.getElementById('pj1').innerHTML = t1;
-        console.log('this2 ' +document.getElementById('p1').style.cssText);
 
         create400('p2', '2', 'c2')
         did2 = 'true';
