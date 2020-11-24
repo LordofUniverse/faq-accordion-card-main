@@ -107,7 +107,7 @@ body {
 }
 
 .pc {
-  margin-bottom: 0rem;
+  margin-bottom: 1rem;
 }
 
 .pc:hover {
@@ -115,23 +115,23 @@ body {
 }
 
 #pj1 {
-  opacity: 0;
+  opacity: 1;
 }
 
 #pj2 {
-  opacity: 0;
+  opacity: 1;
 }
 
 #pj3 {
-  opacity: 0;
+  opacity: 1;
 }
 
 #pj4 {
-  opacity: 0;
+  opacity: 1;
 }
 
 #pj5 {
-  opacity: 0;
+  opacity: 1;
 }
 
 hr {
